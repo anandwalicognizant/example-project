@@ -6,5 +6,5 @@ scala
 ruby
 javascript
 c++
-
+rust
 
