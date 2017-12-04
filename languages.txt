@@ -7,4 +7,6 @@ ruby
 javascript
 c++
 rust
-
+Clojure
+ScalaWeb
+Akka
